@@ -1,0 +1,6 @@
+sentence-transformers==2.2.2
+pymongo==4.6.1
+qdrant-client==1.7.0
+torch==2.1.2
+numpy==1.26.2
+subprocess.run
